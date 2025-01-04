@@ -11,8 +11,8 @@ function ResumeNew() {
     setWidth(window.innerWidth);
   }, []);
 
-  const resumeLink = "https://drive.google.com/file/d/1Wna7fOA4E_f-i0hnvrHA7jFMCb4a2hl2/view?usp=sharing";
-  const downloadLink = "https://drive.google.com/file/d/1Wna7fOA4E_f-i0hnvrHA7jFMCb4a2hl2/preview";
+  const resumeLink = "https://drive.google.com/file/d/1UhtxfiAVMYFs6FKf2Ar43lX6sxn5NBco/view";
+  const downloadLink = "https://drive.google.com/file/d/1UhtxfiAVMYFs6FKf2Ar43lX6sxn5NBco/view";
 
   return (
     <div>
