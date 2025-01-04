@@ -41,7 +41,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <img src="https://img.icons8.com/fluency-systems-filled/50/7950F2/circled-y.png"  alt="brand" 
+          <img src="https://img.icons8.com/ios-filled/50/c770f0/circled-y.png"  alt="brand" 
           style={{ width: '100px', height: 'auto' }}
           />
         </Navbar.Brand>
