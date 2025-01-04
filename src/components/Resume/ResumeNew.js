@@ -12,7 +12,7 @@ function ResumeNew() {
   }, []);
 
   const resumeLink = "https://drive.google.com/file/d/1Wna7fOA4E_f-i0hnvrHA7jFMCb4a2hl2/view?usp=sharing";
-  const downloadLink = "https://drive.google.com/file/d/1Wna7fOA4E_f-i0hnvrHA7jFMCb4a2hl2/preview;
+  const downloadLink = "https://drive.google.com/file/d/1Wna7fOA4E_f-i0hnvrHA7jFMCb4a2hl2/preview";
 
   return (
     <div>
